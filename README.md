@@ -1,4 +1,4 @@
-# Purvi S Kiran — Personal Portfolio (MERN Stack)
+# Karthik JT — Personal Portfolio (MERN Stack)
 
 A premium, fully responsive personal portfolio / digital resume for **Purvi S Kiran**, built with the MERN stack (MongoDB, Express, React, Node.js). The site doubles as a Content Management System: Purvi is the only owner and can edit every piece of content from a hidden dashboard — no code changes required.
 
