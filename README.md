@@ -5,7 +5,7 @@ A premium, fully responsive personal portfolio / digital resume for **Purvi S Ki
 ## Project structure
 
 ```
-purvi-portfolio/
+Karthik-portfolio/
 ├── backend/            Express + MongoDB REST API
 │   ├── config/         Database connection
 │   ├── models/         Mongoose schemas (one per portfolio section)
